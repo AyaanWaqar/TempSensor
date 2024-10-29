@@ -1,0 +1,2 @@
+# MLX90614 Temperature Sesnor
+I started working with MLX temperature sensors in Arduino which helped me understand the fundamentals of data collection, conversion, and display—skills that are vital for health-related applications. MLX temperature sensors became especially significant during COVID-19, where they were widely used for contactless temperature screening to prevent virus spread. Inspired by their practical application, I expanded this concept into my "Diabetic Foot Analyzer" project.
